@@ -3,6 +3,10 @@
     src: url("/fonts/corbert/Corbert-Regular.otf");
 } */
 
+#top{
+    background-color: #223843;
+}
+
 .container{
     margin-top: 100px;
 }
